@@ -26,7 +26,7 @@ Contributions are welcome! If you would like to enhance the project, feel free t
 This project would not have been possible without the support and contributions of the following individuals and resources:
 - Renuka Rajpuria: for her guidance and assistance throughout the development process.
 - Swagath Mullangi: for providing valuable insights and feedback.
-- Murtaza Workshop (YouTube): for their informative tutorials and inspiration.
+- Krish Naik(Youtube) and Murtaza Workshop (YouTube): for their informative tutorials
 
 ## Future Development
 The project is continually evolving, and future updates will focus on:
@@ -36,9 +36,3 @@ The project is continually evolving, and future updates will focus on:
 
 Stay tuned for exciting updates and new features!
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it for your own purposes.
-
-Let's revolutionize object detection and distance estimation together!
-
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?style=flat&logo=github)](https://github.com/your-username/object-detector-distance-estimation)
